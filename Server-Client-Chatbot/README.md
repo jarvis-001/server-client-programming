@@ -17,7 +17,7 @@ It creates a connection to the server and can send and recieve text messages.
 g++ server.cpp -o server
 g++ client.cpp -o client
 ```
-4. Start the server on a specified port.
+4. Start the server on the specified port.
 ```
 ./server PORT
 ```
