@@ -10,7 +10,7 @@ It creates a connection to the server and can send and recieve text messages.
 * Socket Programming
 
 ## Usage:
-1. Clone the repo.
+1. Clone the repository.
 2. Use either the TCP or UDP choose relevant directory.
 3. Open terminal and compile the files server.cpp and client.cpp
 ```
@@ -21,7 +21,7 @@ g++ client.cpp -o client
 ```
 ./server PORT
 ```
-5. In another terminal window connect the client to server.
+5. In another terminal window connect the client to the server.
 ```
 ./client localhost PORT
 ```
